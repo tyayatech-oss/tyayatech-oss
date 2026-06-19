@@ -126,6 +126,7 @@ Right now I'm also **diving into Machine Learning and Deep Learning**, sharpenin
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FB,50:4FACFE,100:0093E9&height=120&section=footer" width="100%"/>
 
 </div>
+**
 
 <!--
 **tyayatech-oss/tyayatech-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
